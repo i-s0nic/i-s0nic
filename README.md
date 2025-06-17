@@ -1,8 +1,8 @@
 # Hey there 👋, I'm Saurabh Upadhayay
 ### *Backend Engineer | Golang Specialist | Distributed Systems Enthusiast*
 
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-s0nic&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-s0nic&layout=compact&theme=radical)
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Upadhayay&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Upadhayay&layout=compact&theme=radical)
 
 ---
 
@@ -52,15 +52,15 @@
 
 ## 📈 GitHub Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=i-s0nic&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Saurabh-Upadhayay&theme=radical&hide_border=true)
 
 ---
 
 ## 🚀 Let's Connect
 
-- 🌐 [Portfolio Website](https://saurabh-upadhayay.dev) <!-- Replace with actual link -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-upadhayay/)
-- 📬 Email: `upadhayay.saurabh[at]gmail.com`
+- 🌐 [Portfolio Website](https://i-s0nic.github.io/knowme/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/is0nic/)
+- 📬 Email: `usaurabh207@gmail.com`
 
 ---
 
