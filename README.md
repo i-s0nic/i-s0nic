@@ -18,16 +18,16 @@
 <h1 align="center">⚡ GitHub Stats & Activity ⚡</h1>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Upadhayay&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Saurabh-Upadhayay&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=i-s0nic&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=i-s0nic&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh-Upadhayay&theme=radical" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-s0nic&theme=radical" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Upadhayay&layout=compact&theme=radical&langs_count=8&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-s0nic&layout=compact&theme=radical&langs_count=8&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -71,11 +71,11 @@
 <h1 align="center">👑 Trophy Wall 👑</h1>  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Upadhayay&theme=radical&no-bg=true&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=i-s0nic&theme=radical&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Upadhayay&theme=algolia&no-bg=true&no-frame=true&row=2&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=i-s0nic&theme=algolia&no-bg=true&no-frame=true&row=2&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
