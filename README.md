@@ -1,77 +1,94 @@
-# 👋 Hey, I'm Saurabh Upadhayay
-
-### 🧑‍💻 Backend Engineer | ⚙️ Golang Specialist | ☁️ Distributed Systems Enthusiast
-
----
-
-## 📊 GitHub Stats & Activity
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=i-s0nic&show_icons=true&theme=radical&hide_border=true" alt="Saurabh's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=i-s0nic&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-s0nic&theme=radical" alt="GitHub Profile Summary"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-s0nic&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages"/>
+<!-- 🌧️ Rain Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachinkumargit/sachinkumargit/main/rain.gif" width="90%"/>
+</p>
 
 ---
 
-## 💼 About Me
-
-I'm a Backend Engineer with over **3 years** of experience building robust, scalable systems in production environments.
-
-- 🛠️ **Current**: Member of Technical Staff @ **LambdaTest**  
-- 🏢 **Past**: Software Engineer @ **Fi Money (Epifi)** | Intern @ **Ridecell**  
-- 💡 **Focus**: Golang, Distributed Systems, Observability, System Design  
-- 🏆 **Achievements**: Spot Award @ Fi | Global Ranks in HackerEarth & Google Kickstart  
-- 🎓 **Education**: B.Tech in Information Technology from IET Lucknow, GPA 9.0  
+<!-- 👋 Typing Animation -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F35A61&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Saurabh+Upadhayay!;Backend+Engineer+%7C+Golang+Specialist;Distributed+Systems+Enthusiast;Cloud-Native+%7C+DevOps+%7C+System+Design;Open-Source+Contributor+%7C+Tech+Mentor"
+    alt="Typing Animation"
+  />
+</p>
 
 ---
 
-## 🧰 Tech Toolbox
+<h1 align="center">⚡ GitHub Stats & Activity ⚡</h1>  
 
-### 💻 Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Upadhayay&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Saurabh-Upadhayay&theme=radical&hide_border=true" height="180"/>
+</p>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh-Upadhayay&theme=radical" width="95%"/>
+</p>
 
-### 🛠️ Tools & Platforms
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/gRPC-4A154B?style=flat-square&logo=grpc&logoColor=white"/>
-
-### 🗃️ Databases & Observability
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Upadhayay&layout=compact&theme=radical&langs_count=8&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 🌍 Let's Connect
+<h1 align="center">💼 About Me 💼</h1>  
 
-- 🔗 [**Portfolio**](https://i-s0nic.github.io/knowme/)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/is0nic/)
-- 📧 **Email**: `usaurabh207@gmail.com`
-- 🧑‍💻 **GitHub**: [github.com/i-s0nic](https://github.com/i-s0nic)
+<p align="center">
+🛠️ <b>Current</b>: Member of Technical Staff @ <b>LambdaTest</b><br/>
+🏢 <b>Past</b>: Software Engineer @ <b>Fi Money (Epifi)</b> | Intern @ <b>Ridecell</b><br/>
+💡 <b>Focus</b>: Golang, Distributed Systems, Observability, System Design<br/>
+🏆 <b>Achievements</b>: Spot Award @ Fi | Global Ranks in HackerEarth & Google Kickstart<br/>
+🎓 <b>Education</b>: B.Tech in Information Technology, <b>IET Lucknow</b> (GPA: 9.0)  
+</p>
 
 ---
 
-⭐️ *If you like what I do, follow me or star a project — your support means a lot!*
+<h1 align="center">🧰 Tech Toolbox 🧰</h1>  
+
+### 💻 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,java,python,js,ts,scala,c,cs&theme=dark" />
+</p>
+
+### ⚙️ Frameworks & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,grpc,git,githubactions,nodejs,terraform,consul,argo,grafana,airflow,linux&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
+</p>
+
+### 🗄️ Databases & Observability  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb,dynamodb&theme=dark" />
+</p>
+
+---
+
+<h1 align="center">👑 Trophy Wall 👑</h1>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Upadhayay&theme=radical&no-bg=true&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Upadhayay&theme=algolia&no-bg=true&no-frame=true&row=2&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+<h1 align="center">🌍 Let's Connect 🌍</h1>  
+
+<p align="center">
+  <a href="https://i-s0nic.github.io/knowme/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/is0nic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:usaurabh207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Saurabh-Upadhayay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">⭐️ <i>If you like what I do, follow me or star a project — it motivates me a lot!</i> ⭐️</p>
